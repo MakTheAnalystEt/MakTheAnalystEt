@@ -1,5 +1,10 @@
-## Hi there 👋
+Hi there 👋
 
+Hi, I'm Mak — a Data Analyst | Data Scientist passionate about Python, data visualization, and machine learning.
+I enjoy exploring datasets, building predictive models, and creating insights using SQL, Python, Power BI, and Tableau.
+With a background in Aircraft Engineering, I bring a structured and analytical approach to solving complex problems through data.
+
+🌎 Based in Los Angeles, USA (Pacific Time Zone) — always learning, experimenting, and growing in the world of data.
 <!--
 **MakTheAnalystEt/MakTheAnalystEt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
