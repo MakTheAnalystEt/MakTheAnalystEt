@@ -1,6 +1,6 @@
 Hi there 👋
 
-Hi, I'm Mak — a Data Analyst | Data Scientist passionate about Python, data visualization, and machine learning.
+I'm Mak — a Data Analyst | Data Scientist passionate about Python, data visualization, and machine learning.
 I enjoy exploring datasets, building predictive models, and creating insights using SQL, Python, Power BI, and Tableau.
 With a background in Aircraft Engineering, I bring a structured and analytical approach to solving complex problems through data.
 
